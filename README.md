@@ -20,6 +20,8 @@ The technologies I used:
 
 My project is a little different from the [original one](https://github.com/mdn/express-locallibrary-tutorial), but the main structure is the same. Mostly, the difference is about how the data will be shown to user after retrieving it from the database and some code refactoring (e.g. using `Promise` instead of "async" module).
 
+I don't know how to authenticate users yet, so this project doesn't include authentication. This means anyone can change the content of the site. I'll work on it whenever I'm ready.
+
 ## How to run
 
 To run this site and see if it works well, you need to have some things to be installed and ready. 
